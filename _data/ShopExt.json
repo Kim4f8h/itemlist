@@ -61,9 +61,9 @@
       "degree": 0
     },
     {
-      "description": "Timmy is an exceptionally agreeable and giving person. he never insults others and will sometimes offer kind words to brighten the moods of those around him. he also never judges people by their appearance.",
+      "description": "Timmy is an exceptionally agreeable and giving person. he never insults others and will sometimes offer kind words to brighten the moods of those around him. he also never judges people by their appearance. his agreeableness also makes him more likely to conform to prevailing opinions.",
       "stats": [
-
+        "x200% global certainty loss factor"
       ],
       "conflicts": [
         "abrasive",
@@ -81,7 +81,7 @@
           "psychopath"
         ],
         "stats": [
-
+          "x200% global certainty loss factor"
         ]
       },
       "defName": "Kind",
@@ -155,7 +155,7 @@
     {
       "description": "Timmy always says exactly what's on his mind, especially if it's bugging him. That tends to rub people the wrong way.",
       "stats": [
-
+        "x50% global certainty loss factor"
       ],
       "conflicts": [
 
@@ -171,7 +171,7 @@
 
         ],
         "stats": [
-
+          "x50% global certainty loss factor"
         ]
       },
       "defName": "Abrasive",
@@ -3728,7 +3728,7 @@
       },
       "defName": "LC_Immortal",
       "name": "immortal",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
@@ -51583,7 +51583,7 @@
       "degree": 4
     },
     {
-      "description": "Timmy enjoys the solitude and tranquility inherent to long fishing sessions. he will prefer fishing above other activities.",
+      "description": "Either the body or mind of Timmy is one of insight and experience. While some find them old fashioned, others will respect their guidance.",
       "stats": [
 
       ],
@@ -51595,7 +51595,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Vanilla Fishing Expanded",
+        "mod": "Vanilla Ideology Expanded - Memes and Structures",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -51604,13 +51604,77 @@
 
         ]
       },
-      "defName": "VCEF_Fisherman",
-      "name": "fisherman",
+      "defName": "VME_Elder",
+      "name": "elder",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0
+    },
+    {
+      "description": "Timmy is a messy person. he tends to leave dirt and trash where ever he goes and is slow to clean up after himself.",
+      "stats": [
+        "-50% cleaning speed",
+        "x200% filth rate"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Cleaning Speed",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-50% cleaning speed",
+          "x200% filth rate"
+        ]
+      },
+      "defName": "CleaningSpeedOffset",
+      "name": "slovenly",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy likes clean environments. he cleans quickly and avoids leaving dirt and trash.",
+      "stats": [
+        "+50% cleaning speed",
+        "x50% filth rate"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Cleaning Speed",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+50% cleaning speed",
+          "x50% filth rate"
+        ]
+      },
+      "defName": "CleaningSpeedOffset",
+      "name": "fastidious",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
     }
   ],
   "races": [
@@ -51632,7 +51696,7 @@
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "Human",
-      "enabled": true,
+      "enabled": false,
       "name": "human",
       "price": 2917
     },
@@ -51666,37 +51730,9 @@
       },
       "description": "A baseline kilhn. These people are proud decendants of an ancient dragoniod race, though their true origins remain a mystery. They are capable hunters boasting increased survivability in almost any climate as they have strong defences and natural weapons. The average Kilhn can live easily to 1500 years old. They dislike the cold and survive on solely a meat diet. They are naturally greedy and fairly lazy, as such they work slower, gather less, make for poor farmers, and generally dislike manual labor unless it's related to hunting.",
       "defName": "Dragon_Kilhn",
-      "enabled": true,
+      "enabled": false,
       "name": "kilhn",
       "price": 7917
-    },
-    {
-      "data": {
-        "stats": [
-          "+250.00 Mass",
-          "+15% Flammability",
-          "+$2000 Market value",
-          "+4.20 Move speed",
-          "+25% Psychic sensitivity",
-          "+5% Toxic sensitivity",
-          "+25.0% Armor - Blunt",
-          "+35.0% Armor - Sharp",
-          "+9% Mental break threshold",
-          "-52.0C Minimum comfortable temperature",
-          "+52.0C Maximum comfortable temperature",
-          "+115% Eating speed",
-          "+50 Leather amount",
-          "+100 Meat amount"
-        ],
-        "mod": "Call of Cthulhu - Elder Things (Continued)",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Sharing biological features similar to fungus, amphibians, and plantlike organisms, the five-sided barrel-shaped entities referred to simply as the Elder Things are hardy creatures that can survive in most temperatures, enter trance-like sleep nearly indefinitely, survive deep space flight, and aside from suffering violent trauma, are effectively immortal.\n\nFurther information: Elder Things are genderless creatures that reproduce asexually through spores that are raised by families of likeminded individuals rather than blood-relations. Their society is focused on large open spaces adorned by artwork and cylindrical furniture in pentagonal and other strange geometric structures. Due to advanced genetic engineering technology, they are responsible for the creation of the sentient slave protoplasmic race known as the Shoggoths, which turned against the Elder Things in centuries past and nearly destroyed their civilization. Even so, the Elder Things still rely on slave labor to maintain their decadent lifestyles and refuse to do labor that is beneath them.",
-      "defName": "Alien_ElderThing_Race_Standard",
-      "enabled": true,
-      "name": "Elder Thing",
-      "price": 3333
     },
     {
       "data": {
@@ -52250,7 +52286,7 @@
       },
       "description": "A large, graceful humanoid creature, with long white fur, a large sharp horn and short simple tail. Their striking resemblance to Thrumbos gave them their name and leaves no doubt to where this race might have originated from.\n\nWhile generally peaceful they make excellent melee fighters, thanks to their resilent hide and razor sharp horn. Thrumkin live in harmony with nature and know more about plants and animals than most advanced cultures, at least on the planet they are living on.\n\nThey are not particularly skilled when it comes to building tools and using them, neither are their structures more than simple protection from the elements.\n\nGood at: Melee, Plants, Animals, General Labor, Absorbing Damage\nBad at: Shooting, Quality Crafting/Construction, Drug Production, Research, Trading, Cooking, Not eating your entire supplies of food",
       "defName": "Thrumkin",
-      "enabled": true,
+      "enabled": false,
       "name": "thrumkin",
       "price": 4167
     },
@@ -52277,7 +52313,7 @@
       },
       "description": "The Rockmen, as they have been nicknamed by humans, are called so because of their unique skin which according to scientific experiments can be nearly as hard and rugged as solid rock. Additionally, the Rockmen are extremely well conditioned and physically strong to compensate for their thick rock-like skin, giving them an astounding resilience. As a result of their physical attributes, the Rockmen have evolved throughout their race's existence into a warrior race which values personal strength and martial prowess over nearly everything else.\nWhile the Rockmen are generally not an adventurous race, and can only be consistently located within their own territories' borders, the Rockmen are liable to open fire on any ship they encounter that they aren't familiar with. Still, there are always exceptions to the rule, and having Rockmen crew can be very beneficial. Also, from random occurrences, some Rockmen seem to be quite religious.\n\n+ 150% Health scale\n+ 110% mining speed\n+ Fireproof, comfy temp over 9000 (frost may bite though)\n+ Natural armor\n- 85% speed\n- 150% Hunger rate\n- 105% psychic sensitivity to depict religious inclination",
       "defName": "Alien_Rockman",
-      "enabled": true,
+      "enabled": false,
       "name": "Rockman",
       "price": 3333
     }

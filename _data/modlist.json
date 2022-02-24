@@ -18,10 +18,22 @@
     "version": "1.3.0.4"
   },
   {
+    "author": "SomewhereOutInSpace",
+    "name": "Rimsential - Spaceports",
+    "steamId": "2663999215",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "hodlhodl",
     "name": "ToolkitCore",
     "steamId": "2018368654",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Trader ships",
+    "steamId": "2046222331",
+    "version": "1.0.350.0854"
   },
   {
     "author": "hodlhodl",
@@ -40,6 +52,12 @@
     "name": "Destroy Item",
     "steamId": "2423311270",
     "version": "1.0.4.0"
+  },
+  {
+    "author": "Zylle",
+    "name": "Map Designer",
+    "steamId": "2111424996",
+    "version": "1.0.0.0"
   },
   {
     "author": "Bullet Magnet",
@@ -86,6 +104,12 @@
   {
     "author": "MercuryDoll / original by Agracore",
     "name": "Fantasy Metals Reforged",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Rikiki,  Mlie and  Fluffysminion",
+    "name": "Biomes! Caveworld Flora Unleashed",
     "steamId": null,
     "version": null
   },
@@ -178,18 +202,6 @@
     "name": "[SYR] Doormats",
     "steamId": "1508778962",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Dylan",
-    "name": "Animal Gear",
-    "steamId": "1541438907",
-    "version": "1.3.1.3"
-  },
-  {
-    "author": "Dylan",
-    "name": "Animal Gear Basic",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "erdelf",
@@ -426,12 +438,6 @@
     "version": null
   },
   {
-    "author": "Jecrell",
-    "name": "Call of Cthulhu - Elder Things (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Roolo",
     "name": "Dual Wield",
     "steamId": null,
@@ -558,20 +564,8 @@
     "version": "1.0.7871.19234"
   },
   {
-    "author": "AUTOMATIC",
-    "name": "Autocleaner",
-    "steamId": "2051042827",
-    "version": "1.0.379.0018"
-  },
-  {
     "author": "sulusdacor,  james76543 and  Meltup",
     "name": "Advanced Power Plus",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "ToyWalrus",
-    "name": "Caravan Cooler",
     "steamId": null,
     "version": null
   },
@@ -584,12 +578,6 @@
   {
     "author": "malistaticy and  descention",
     "name": "Android Resurrection Kit (rebuild)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Mlie",
-    "name": "Cupro's Alloys (Continued)",
     "steamId": null,
     "version": null
   },
@@ -621,7 +609,7 @@
     "author": "Mlie",
     "name": "Various Space Ship Chunk (Continued)",
     "steamId": "2014616487",
-    "version": "1.0.6.0"
+    "version": "1.3.1"
   },
   {
     "author": "Spdskatr and  CaesarV6",
@@ -709,12 +697,6 @@
   },
   {
     "author": "aRandomKiwi",
-    "name": "Kill For Me",
-    "steamId": "1629854111",
-    "version": "1.6.5.1"
-  },
-  {
-    "author": "aRandomKiwi",
     "name": "Raids For Me",
     "steamId": "1633517937",
     "version": "1.0.4.0"
@@ -736,12 +718,6 @@
     "name": "Better Pawn Control",
     "steamId": "1541460369",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Syrchalis",
-    "name": "[SYR] Metallic Batteries",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Murmur",
@@ -771,18 +747,6 @@
     "author": "GHXX",
     "name": "Tech Advancing",
     "steamId": "735268789",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Ratys",
-    "name": "RT Solar Flare Shield",
-    "steamId": "728315620",
-    "version": "1.6.0.0"
-  },
-  {
-    "author": "Syrchalis",
-    "name": "[SYR] Universal Fermenter",
-    "steamId": "2073225100",
     "version": "1.0.0.0"
   },
   {
@@ -894,18 +858,6 @@
     "version": null
   },
   {
-    "author": "WexMan",
-    "name": "Mines",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "SirLalaPyon",
-    "name": "Mines Retxture",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "$$$",
     "name": "Advanced Mini-Turret [+] (continued)",
     "steamId": null,
@@ -942,20 +894,8 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki,  AveryTheKitty and  Taranchuk",
-    "name": "Vanilla Weapons Expanded - Coilguns",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Harkon",
     "name": "[HRK] Gun Nut - \"Item 62\" Gauss Rifle",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "zyxabacab",
-    "name": "No Sympathy for Prisoners",
     "steamId": null,
     "version": null
   },
@@ -1044,18 +984,6 @@
     "version": null
   },
   {
-    "author": "Udon",
-    "name": "Animal Weapon",
-    "steamId": "2497919470",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Dubwise",
-    "name": "Dubs Paint Shop",
-    "steamId": "1579516669",
-    "version": "1.1.7359"
-  },
-  {
     "author": "Roolo",
     "name": "Almost There!",
     "steamId": null,
@@ -1078,12 +1006,6 @@
     "name": "Race to the Rim",
     "steamId": "2325478123",
     "version": "1.3.7862.41411"
-  },
-  {
-    "author": "Epicguru (James B)",
-    "name": "Antimatter Annihilation",
-    "steamId": "2113692574",
-    "version": "1.0.0.0"
   },
   {
     "author": "Orion",
@@ -1170,6 +1092,18 @@
     "version": null
   },
   {
+    "author": "Aelanna",
+    "name": "Cleaning Speed",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Hatti",
+    "name": "CleaningArea",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Verniy709",
     "name": "Bloodborne Weapon",
     "steamId": null,
@@ -1194,22 +1128,10 @@
     "version": null
   },
   {
-    "author": "Jecrell and lbmaian",
-    "name": "Doors Expanded",
-    "steamId": "1316188771",
-    "version": "1.4.0.2"
-  },
-  {
     "author": "Avius and  Hazzer",
     "name": "Locks",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "mr.teterew",
-    "name": "Real Ruins",
-    "steamId": "1552146295",
-    "version": "2.2.2.0"
   },
   {
     "author": "CrashM",
@@ -1250,24 +1172,6 @@
   {
     "author": "xrushha",
     "name": "Elders Faction",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Garethp",
-    "name": "Animals Search and Destroy",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Owlchemist",
-    "name": "Animal Equipment",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Wolfcub05",
-    "name": "Draftable Animals",
     "steamId": null,
     "version": null
   },
@@ -1398,18 +1302,6 @@
     "version": "1.1.0.0"
   },
   {
-    "author": "newcolonist",
-    "name": "Large Faction Bases",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sarg Bjornson and  Ben Lubar",
-    "name": "RimBees",
-    "steamId": "1558161673",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Uuugggg",
     "name": "Everybody Gets One",
     "steamId": "1687566130",
@@ -1434,28 +1326,28 @@
     "version": "1.0.5"
   },
   {
-    "author": "MrKociak",
-    "name": "More Archotech Garbage Reupload",
+    "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
+    "name": "Vanilla Ideology Expanded - Memes and Structures",
+    "steamId": "2636329500",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki,  Taranchuk and  xrushha",
+    "name": "Vanilla Ideology Expanded - Anima Theme",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Jecrell",
-    "name": "Call of Cthulhu - Cosmic Horrors",
-    "steamId": "765890823",
-    "version": "1.3.0.2"
-  },
-  {
-    "author": "FLASHPOINT55",
-    "name": "Human Power Generator Mod",
+    "author": "Oskar Potocki,  Sarg Bjornson,  Taranchuk and  Reann Shepard",
+    "name": "Vanilla Ideology Expanded - Dryads",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Avius and Hazzer",
-    "name": "Prison Labor",
-    "steamId": "1899474310",
-    "version": "0.10.8013.41829"
+    "author": "Saakra",
+    "name": "Empire",
+    "steamId": "2006535182",
+    "version": "0.40.00"
   },
   {
     "author": "Ben Lubar",
@@ -1476,6 +1368,18 @@
     "version": null
   },
   {
+    "author": "Qux",
+    "name": "Faction : Hippies",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  xrushha and  legodude17",
+    "name": "Vanilla Factions Expanded - Ancients",
+    "steamId": "2654846754",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Windows XP",
     "name": "Realistic Planets Continued",
     "steamId": "2557451791",
@@ -1494,21 +1398,9 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki and  Sarg Bjornson",
-    "name": "Vanilla Fishing Expanded",
-    "steamId": "1914064942",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Weilbyte",
     "name": "Snap Out!",
     "steamId": "1319782555",
     "version": "0.7.5"
-  },
-  {
-    "author": "Kikohi",
-    "name": "What's for sale?",
-    "steamId": "2396808851",
-    "version": "1.1.0.0"
   }
 ]
