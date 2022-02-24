@@ -51696,7 +51696,7 @@
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "Human",
-      "enabled": false,
+      "enabled": true,
       "name": "human",
       "price": 2917
     },
@@ -51730,7 +51730,7 @@
       },
       "description": "A baseline kilhn. These people are proud decendants of an ancient dragoniod race, though their true origins remain a mystery. They are capable hunters boasting increased survivability in almost any climate as they have strong defences and natural weapons. The average Kilhn can live easily to 1500 years old. They dislike the cold and survive on solely a meat diet. They are naturally greedy and fairly lazy, as such they work slower, gather less, make for poor farmers, and generally dislike manual labor unless it's related to hunting.",
       "defName": "Dragon_Kilhn",
-      "enabled": false,
+      "enabled": true,
       "name": "kilhn",
       "price": 7917
     },
@@ -52286,7 +52286,7 @@
       },
       "description": "A large, graceful humanoid creature, with long white fur, a large sharp horn and short simple tail. Their striking resemblance to Thrumbos gave them their name and leaves no doubt to where this race might have originated from.\n\nWhile generally peaceful they make excellent melee fighters, thanks to their resilent hide and razor sharp horn. Thrumkin live in harmony with nature and know more about plants and animals than most advanced cultures, at least on the planet they are living on.\n\nThey are not particularly skilled when it comes to building tools and using them, neither are their structures more than simple protection from the elements.\n\nGood at: Melee, Plants, Animals, General Labor, Absorbing Damage\nBad at: Shooting, Quality Crafting/Construction, Drug Production, Research, Trading, Cooking, Not eating your entire supplies of food",
       "defName": "Thrumkin",
-      "enabled": false,
+      "enabled": true,
       "name": "thrumkin",
       "price": 4167
     },
@@ -52313,7 +52313,7 @@
       },
       "description": "The Rockmen, as they have been nicknamed by humans, are called so because of their unique skin which according to scientific experiments can be nearly as hard and rugged as solid rock. Additionally, the Rockmen are extremely well conditioned and physically strong to compensate for their thick rock-like skin, giving them an astounding resilience. As a result of their physical attributes, the Rockmen have evolved throughout their race's existence into a warrior race which values personal strength and martial prowess over nearly everything else.\nWhile the Rockmen are generally not an adventurous race, and can only be consistently located within their own territories' borders, the Rockmen are liable to open fire on any ship they encounter that they aren't familiar with. Still, there are always exceptions to the rule, and having Rockmen crew can be very beneficial. Also, from random occurrences, some Rockmen seem to be quite religious.\n\n+ 150% Health scale\n+ 110% mining speed\n+ Fireproof, comfy temp over 9000 (frost may bite though)\n+ Natural armor\n- 85% speed\n- 150% Hunger rate\n- 105% psychic sensitivity to depict religious inclination",
       "defName": "Alien_Rockman",
-      "enabled": false,
+      "enabled": true,
       "name": "Rockman",
       "price": 3333
     }
